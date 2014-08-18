@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tilemap tileswide="8" tileshigh="8" tilewidth="32" tileheight="32">
+  <properties name="properties">
+    <background red="255" green="255" blue="255" />
+  </properties>
+  <layer number="0" name="tiles">
+    <tile x="0" y="0" tile="/grass.png" rot="0" flipX="false" />
+    <tile x="1" y="0" tile="/grass.png" rot="0" flipX="false" />
+    <tile x="2" y="0" tile="/grass.png" rot="0" flipX="false" />
+    <tile x="3" y="0" tile="/grass.png" rot="0" flipX="false" />
+    <tile x="4" y="0" tile="/grass.png" rot="0" flipX="false" />
+    <tile x="5" y="0" tile="/grass.png" rot="0" flipX="false" />
+    <tile x="6" y="0" tile="/grass.png" rot="0" flipX="false" />
+    <tile x="7" y="0" tile="/grass.png" rot="0" flipX="false" />
+    <tile x="0" y="1" tile="/grass.png" rot="0" flipX="false" />
+    <tile x="1" y="1" tile="NAME" rot="0" flipX="false" />
+    <tile x="2" y="1" tile="NAME" rot="0" flipX="false" />
+    <tile x="3" y="1" tile="NAME" rot="0" flipX="false" />
+    <tile x="4" y="1" tile="NAME" rot="0" flipX="false" />
+    <tile x="5" y="1" tile="NAME" rot="0" flipX="false" />
+    <tile x="6" y="1" tile="NAME" rot="0" flipX="false" />
+    <tile x="7" y="1" tile="/grass.png" rot="0" flipX="false" />
+    <tile x="0" y="2" tile="/grass.png" rot="0" flipX="false" />
+    <tile x="1" y="2" tile="NAME" rot="0" flipX="false" />
+    <tile x="2" y="2" tile="NAME" rot="0" flipX="false" />
+    <tile x="3" y="2" tile="NAME" rot="0" flipX="false" />
+    <tile x="4" y="2" tile="NAME" rot="0" flipX="false" />
+    <tile x="5" y="2" tile="NAME" rot="0" flipX="false" />
+    <tile x="6" y="2" tile="NAME" rot="0" flipX="false" />
+    <tile x="7" y="2" tile="/grass.png" rot="0" flipX="false" />
+    <tile x="0" y="3" tile="/grass.png" rot="0" flipX="false" />
+    <tile x="1" y="3" tile="NAME" rot="0" flipX="false" />
+    <tile x="2" y="3" tile="NAME" rot="0" flipX="false" />
+    <tile x="3" y="3" tile="NAME" rot="0" flipX="false" />
+    <tile x="4" y="3" tile="NAME" rot="0" flipX="false" />
+    <tile x="5" y="3" tile="NAME" rot="0" flipX="false" />
+    <tile x="6" y="3" tile="NAME" rot="0" flipX="false" />
+    <tile x="7" y="3" tile="/grass.png" rot="0" flipX="false" />
+    <tile x="0" y="4" tile="/grass.png" rot="0" flipX="false" />
+    <tile x="1" y="4" tile="NAME" rot="0" flipX="false" />
+    <tile x="2" y="4" tile="NAME" rot="0" flipX="false" />
+    <tile x="3" y="4" tile="NAME" rot="0" flipX="false" />
+    <tile x="4" y="4" tile="NAME" rot="0" flipX="false" />
+    <tile x="5" y="4" tile="NAME" rot="0" flipX="false" />
+    <tile x="6" y="4" tile="NAME" rot="0" flipX="false" />
+    <tile x="7" y="4" tile="/grass.png" rot="0" flipX="false" />
+    <tile x="0" y="5" tile="/grass.png" rot="0" flipX="false" />
+    <tile x="1" y="5" tile="NAME" rot="0" flipX="false" />
+    <tile x="2" y="5" tile="NAME" rot="0" flipX="false" />
+    <tile x="3" y="5" tile="NAME" rot="0" flipX="false" />
+    <tile x="4" y="5" tile="NAME" rot="0" flipX="false" />
+    <tile x="5" y="5" tile="NAME" rot="0" flipX="false" />
+    <tile x="6" y="5" tile="NAME" rot="0" flipX="false" />
+    <tile x="7" y="5" tile="/grass.png" rot="0" flipX="false" />
+    <tile x="0" y="6" tile="/grass.png" rot="0" flipX="false" />
+    <tile x="1" y="6" tile="NAME" rot="0" flipX="false" />
+    <tile x="2" y="6" tile="NAME" rot="0" flipX="false" />
+    <tile x="3" y="6" tile="NAME" rot="0" flipX="false" />
+    <tile x="4" y="6" tile="NAME" rot="0" flipX="false" />
+    <tile x="5" y="6" tile="NAME" rot="0" flipX="false" />
+    <tile x="6" y="6" tile="NAME" rot="0" flipX="false" />
+    <tile x="7" y="6" tile="/grass.png" rot="0" flipX="false" />
+    <tile x="0" y="7" tile="/grass.png" rot="0" flipX="false" />
+    <tile x="1" y="7" tile="/grass.png" rot="0" flipX="false" />
+    <tile x="2" y="7" tile="/grass.png" rot="0" flipX="false" />
+    <tile x="3" y="7" tile="/grass.png" rot="0" flipX="false" />
+    <tile x="4" y="7" tile="/grass.png" rot="0" flipX="false" />
+    <tile x="5" y="7" tile="/grass.png" rot="0" flipX="false" />
+    <tile x="6" y="7" tile="/grass.png" rot="0" flipX="false" />
+    <tile x="7" y="7" tile="/grass.png" rot="0" flipX="false" />
+  </layer>
+</tilemap>

@@ -1,0 +1,24 @@
+<tilemap tileswide="4" tileshigh="4" tilewidth="32" tileheight="32">
+  <properties name="properties"> 
+	<background red="0" green="0" blue="0"></background>
+  </properties>
+  
+  <layer number="0" name="tiles">
+    <tile x="0" y="0" tile="grass" rot="0" flipX="false"/>
+    <tile x="1" y="0" tile="grass" rot="0" flipX="false"/>
+    <tile x="2" y="0" tile="grass" rot="0" flipX="false"/>
+    <tile x="3" y="0" tile="grass" rot="0" flipX="false"/>
+    <tile x="0" y="1" tile="grass" rot="0" flipX="false"/>
+    <tile x="1" y="1" tile="grass" rot="0" flipX="false"/>
+    <tile x="2" y="1" tile="grass" rot="0" flipX="false"/>
+    <tile x="3" y="1" tile="grass" rot="0" flipX="false"/>
+    <tile x="0" y="2" tile="grass" rot="0" flipX="false"/>
+    <tile x="1" y="2" tile="grass" rot="0" flipX="false"/>
+    <tile x="2" y="2" tile="grass" rot="0" flipX="false"/>
+    <tile x="3" y="2" tile="grass" rot="0" flipX="false"/>
+    <tile x="0" y="3" tile="grass" rot="0" flipX="false"/>
+    <tile x="1" y="3" tile="grass" rot="0" flipX="false"/>
+    <tile x="2" y="3" tile="grass" rot="0" flipX="false"/>
+    <tile x="3" y="3" tile="grass" rot="0" flipX="false"/>
+  </layer>
+</tilemap>

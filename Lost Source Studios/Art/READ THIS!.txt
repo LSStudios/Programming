@@ -1,0 +1,4 @@
+when adding art to a spritesheet it has to be 1 tile spacing from the left and upper edge like it is in the testSpriteSheet.pyxel
+
+If you didnt understand this send me a message on skype
+-Pontus
